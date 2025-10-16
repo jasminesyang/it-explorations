@@ -1,3 +1,4 @@
+[Link back to Home](https://jasminesyang.github.io/jasmineyang.github.io/)
 # IT-Exploration
 IT Exploration was a foundational course at Western Technical College that immediately immersed me in the core principles of my program. The class was designed for hands-on learning, providing practical projects that reinforced theoretical understanding. We moved efficiently from structured content, such as Cisco networking fundamentals, to broader assignments covering diverse software, hardware configurations, and coding languages.
 
