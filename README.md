@@ -5,3 +5,4 @@ One of the most valuable and rewarding assignments was successfully booting a li
 
 [Data Analytics Lab](https://lookerstudio.google.com/s/uMW67ZphcK4)
 
+[Career Exploration Group Project](https://github.com/user-attachments/files/22957917/Career.Exploration.Group.Project.1.pptx)
